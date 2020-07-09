@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm a computer engineering student 👨‍💻 from Mumbai, India who loves to create for the **web 🌐 and mobile** 📱.
-----
+
 - 🔭 I’m currently working on building websites and native applications.
 - 🌱 I’m currently learning Flutter and some intermediate React concepts. 
 - 👯 I’m looking to collaborate on open source projects based on the MERN stack.
