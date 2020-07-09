@@ -1,4 +1,4 @@
-### Hey there, I'm Nitin 👋
+## Hey there, I'm Nitin 👋
 
 <!--
 **itsnitinr/itsnitinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer engineering student 👨‍💻 from Mumbai, India who loves to create for the **web 🌐 and mobile** 📱.
+### I'm a computer engineering student 👨‍💻 from Mumbai, India who loves to create for the **web 🌐 and mobile** 📱.
 ----
 - 🔭 I’m currently working on building websites and native applications.
 - 🌱 I’m currently learning Flutter and some intermediate React concepts. 
