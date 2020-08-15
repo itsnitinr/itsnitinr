@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - **Related stuff** - Git, Redux, Reselect, JWT, Passport, Heroku.
 
 ### What I Want To Learn 🤓:
-Flutter, React Native, Electron, Figma, UI/UX, GraphQL and way too many stuff.
+AWS, Flutter, React Native, Electron, Figma, UI/UX, GraphQL and way too many stuff.
