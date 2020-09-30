@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **VueJS and some intermediate React concepts**
 - 👯 I’m looking to collaborate on **MERN stack projects**
 - 🤝 I’m looking for help with [Driwwwle](https://github.com/itsnitinr/driwwwle/)
-- 👨‍💻 All of my projects are available at [https://itsnitinr.github.io](itsnitinr.github.io)
+- 👨‍💻 All of my projects are available [here](https://itsnitinr.github.io)
 - 💬 Ask me about **Linux, productivity, websites and application development.**
 - 📫 How to reach me: [Email 📧](mailto:nitinranganath@gmail.com) or [Telegram 💬](https://t.me/itsnitinr)
 - ⚡ Fun fact **I love aviation and astrophysics !**
