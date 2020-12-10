@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">I'm a computer engineering student 👨🏻‍💻 from Mumbai, India who loves to create for the web 🌐 and mobile 📱.</h3>
+<h3 align="center">I'm a computer engineering student 👨🏻‍💻 from Mumbai, India who loves to create for the web 🌐.</h3>
 
 - 🔭 I’m currently working on **building websites and native applications**.
 - 🌱 I’m currently learning **VueJS and some intermediate React concepts**
@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnitinr&show_icons=true" alt="itsnitinr" /></p>
 
 <p align="center">
-<a href="https://twitter.com/iamnitinr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamnitinr" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/nitinranganath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nitin-ranganath-35b4611b0/" height="30" width="30" /></a>
-<a href="https://instagram.com/iamnitinr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamnitinr" height="30" width="30" /></a>
+<a href="https://twitter.com/iamnitinr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="fill: cornflowerblue;" alt="iamnitinr" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nitinranganath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nitin-ranganath-35b4611b0/" style="fill: cornflowerblue;" height="30" width="30" /></a>
+<a href="https://instagram.com/iamnitinr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamnitinr" style="fill: cornflowerblue;" height="30" width="30" /></a>
 </p>
