@@ -13,5 +13,5 @@
 ----
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsnitinr&theme=tokyonight)
-<img align="right" width="300" src="https://sauravmh.com/static/media/greeting.03af3652.gif" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsnitinr&theme=tokyonight&hide_border=true)
+<img align="center" width="300" src="https://sauravmh.com/static/media/greeting.03af3652.gif" />
