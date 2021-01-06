@@ -1,4 +1,4 @@
-![Banner Image](https://imgur.com/xyRNNGS.png)
+![Banner Image](https://imgur.com/3frjwnW.png)
 <h3 align="center">I'm a computer engineering student 👨🏻‍💻 from Mumbai, India who loves to create for the web 🌐.</h3>
 
 <p align="center">
