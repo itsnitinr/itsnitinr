@@ -14,4 +14,4 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsnitinr&theme=tokyonight&hide_border=true)
-<img align="center" width="300" src="https://sauravmh.com/static/media/greeting.03af3652.gif" />
+<img align="right" width="325" src="https://sauravmh.com/static/media/greeting.03af3652.gif" />
