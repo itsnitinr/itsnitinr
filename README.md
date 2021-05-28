@@ -9,6 +9,7 @@
   <a href="https://dev.to/itsnitinr" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
   <a href="https://t.me/iamnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=itsnitinr&color=red"</p>
 
 ----
 
