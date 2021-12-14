@@ -7,7 +7,7 @@
   <a href="https://nitinranganath.me" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://twitter.com/iamnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://dev.to/itsnitinr" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://t.me/iamnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+  <a href="https://t.me/itsnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=itsnitinr&color=red"</p>
 
