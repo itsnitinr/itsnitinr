@@ -1,10 +1,10 @@
 ![Banner Image](https://imgur.com/3frjwnW.png)
-<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a computer engineering student 👨🏻‍💻 from Mumbai, India who loves to create for the web 🌐.</h3>
+<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Mumbai, India who loves to create for the web 🌐.</h3>
 
 <p align="center">
   <a href="mailto:nitinranganath@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/nitinranganath" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://nitinranganath.me" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://nitinranganath.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://twitter.com/iamnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://dev.to/itsnitinr" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://t.me/itsnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
@@ -12,8 +12,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=itsnitinr&color=red"</p>
 
 ----
-
-<p align="center">An avid and passionate full stack web developer specializing in the <b>MERN stack</b>. I love to build and design websites which the end user would enjoy using while keeping the website performant and the code clean. Up for freelance web development work and collaborating on exciting projects.</p>
 
 ## ⚡ Stuff I Know
 
