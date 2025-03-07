@@ -1,3 +1,23 @@
+![Banner Image](https://imgur.com/3frjwnW.png)
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello!
+
+- Full stack developer who loves building for the web
+- Presently, SDE 2 at [Tessact](https://tessact.ai) building next-gen video x AI solutions
+- Creator of [Driwwwle](https://driwwwle.com) and [VSCode Portfolio](https://github.com/itsnitinr/vscode-portfolio)
+- Currently exploring LLMs, Golang and mobile development
+- Open to collaborate on projects, reach out!
+
+## Projects
+
+- Need project inspirations? →  [Driwwwle](https://driwwwle.com)
+- A cool portfolio idea maybe? →  [VSCode Portfolio](https://vscode-portfolio.vercel.app)
+- Simple yet elegeant subscriptions tracker → [Subtrackt](https://subtrackt.app)
+- Flashcards to help with your learning →  [Memoria](https://memoria.cards)
+- Need a website or an app → Reach out below 👇
+
+## 
+
 <p align="center">
   <a href="mailto:nitinranganath@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/nitinranganath" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
