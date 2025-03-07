@@ -1,6 +1,6 @@
 ![Banner Image](https://imgur.com/3frjwnW.png)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> A bit about me
 
 - Full stack developer who loves building for the web
 - Presently, SDE 2 at [Tessact](https://tessact.ai) building next-gen video x AI solutions
@@ -10,10 +10,10 @@
 
 ## Projects
 
-- Need project inspirations? →  [Driwwwle](https://driwwwle.com)
-- A cool portfolio idea maybe? →  [VSCode Portfolio](https://vscode-portfolio.vercel.app)
-- Simple yet elegeant subscriptions tracker → [Subtrackt](https://subtrackt.app)
-- Flashcards to help with your learning →  [Memoria](https://memoria.cards)
+- Need project inspirations? →  <a href="https://driwwwle.com" target="_blank">Driwwwle</a>
+- A cool portfolio idea maybe? → <a href="https://vscode-portfolio.vercel.app" target="_blank">VSCode Portfolio</a>
+- Simple yet elegeant subscriptions tracker → <a href="https://subtrackt.app" target="_blank">Subtrackt</a>
+- Flashcards to help with your learning →  <a href="https://memoria.cards" target="_blank">Memoria Cards</a>
 - Need a website or an app → Reach out below 👇
 
 ## 
