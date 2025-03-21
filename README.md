@@ -4,7 +4,7 @@
 
 - Full stack developer who loves building for the web
 - Presently, SDE 2 at [Tessact](https://tessact.ai) building next-gen video x AI solutions
-- Creator of [Driwwwle](https://driwwwle.com) and [VSCode Portfolio](https://github.com/itsnitinr/vscode-portfolio)
+- Creator of [Driwwwle](https://driwwwle.com) and [VSCode Portfolio](https://vscode-portfolio.vercel.app)
 - Currently exploring LLMs, Golang and mobile development
 - Open to collaborate on projects, reach out!
 
